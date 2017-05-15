@@ -1,0 +1,9 @@
+entrada1;entrada2;entrada3;entrada4;resultado esperado 1;resultado esperado ;resultado esperado ;resultado esperado ;;resultado esperado ;resultado esperado ;resultado esperado ;resultado esperado 
+0;0;0;1;1;0;0;0;0;0;0;0;0
+0;0;1;1;0;1;0;0;0;0;0;0;0
+0;1;0;1;0;0;1;0;0;0;0;0;0
+0;1;1;0;0;0;0;1;0;0;0;0;0
+1;0;0;1;0;0;0;0;1;0;0;0;0
+1;0;1;1;0;0;0;0;0;1;0;0;0
+1;1;0;1;0;0;0;0;0;0;1;0;0
+1;1;1;0;0;0;0;0;0;0;0;1;0

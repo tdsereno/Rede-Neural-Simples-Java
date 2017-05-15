@@ -1,0 +1,8 @@
+A rede sempre carrega o arquivo com nome arquivo.csv nesse diretorio.
+Passos para rodar o programa:
+
+1- executar o programa.
+2- definir dados de entrada da rede (Neuronios de entrada + neuronios de saida não pode exceder o tamanho de colunas do CSV).
+3- mudar para a aba treinamentos da rede e carregar o arquivo CSV.
+4- treinar a rede N vezes.
+5- testar a rede na aba de testes.

@@ -1,0 +1,5 @@
+entrada1;entrada2;resultado esperado
+0;0;0
+0;1;1
+1;0;1
+1;1;0
