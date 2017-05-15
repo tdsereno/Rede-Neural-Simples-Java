@@ -29,4 +29,4 @@ Arquitetura da solução:
 Note os dados de treinamento abaixo a entrada 0,0,0,1 deve ativar somente o primeiro neurônio, este representando o número 1.
  
 	A rede foi treinada 800 vezes num tempo de 295 ms (somente treinamento da rede) e apresentando uma taxa de erro de 0,000740.
-	Segue imagem do resultado final do teste.
+	
